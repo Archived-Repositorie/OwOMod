@@ -1,3 +1,4 @@
+`fabric 1.18.x`
 # OwOMod
 Just making OwO mod for learning bruh
 
