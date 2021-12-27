@@ -19,7 +19,7 @@
     "main": [
       {
         "adapter": "kotlin",
-        "value": "com.github.justfoxxo.owomod.Owomod"
+        "value": "com.github.justfoxxo.owomod.Main"
       }
     ]
   },
