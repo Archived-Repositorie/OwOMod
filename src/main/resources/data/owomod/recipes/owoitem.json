@@ -1,0 +1,23 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "E",
+    "C",
+    "H"
+  ],
+  "key" : {
+    "E" : {
+      "item" : "minecraft:fox_spawn_egg"
+    },
+    "C" : {
+      "item" : "minecraft:leather_chestplate"
+    },
+    "H" : {
+      "item" : "minecraft:leather_helmet"
+    }
+  },
+  "result" : {
+    "item" : "owomod:owoitem",
+    "count" : 8
+  }
+}
